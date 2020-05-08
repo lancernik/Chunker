@@ -8,4 +8,4 @@ c) Reduce chunk size to 96x96 px , because model is trained for 96x96 input<br/>
 d) Predict if chunk cosist cancer cells<br/>
 e) Plot subplots with labeled chunkcks<br/>
 f) Plot subplots with labeled chunkcks with predict explained map<br/>
-![alt-text](http://chemmaks.pl/NormalnePredykcja.png)
+![alt-text](http://chemmaks.pl/Tutoriale/histo.png)
